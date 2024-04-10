@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Mobile application "Electronic diary" for schools (Dart, Flutter, Firebase)</b>
-  - GlrTell
+- <b>Mobile application "EduTell" for schools (Dart, Flutter, Firebase)</b>
+  - EduTell
 - <b>Telegram Bot with a database for reminding tasks (Python, SQLite)</b>
   - WorkBot
 
@@ -24,4 +24,4 @@
 <h2>😎 About me:</h2>
 
 - <b>🌱 I’m currently learning git and diving into algorithms</b>
-
+- <b>Codeforces - 1200 (VitCore)</b>
