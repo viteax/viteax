@@ -24,4 +24,4 @@
 <h2>😎 About me:</h2>
 
 - <b>🌱 I’m currently learning git and diving into algorithms</b>
-- <b>Codeforces - 1200 (VitCore)</b>
+- <b>Codeforces - 1213 ([VitCore](https://codeforces.com/profile/VitCore))</b>
