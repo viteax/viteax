@@ -5,7 +5,7 @@
 - <b>Mobile application "EduTell" for schools (Dart, Flutter, Firebase)</b>
   - EduTell
 - <b>Telegram Bot with a database for reminding tasks (Python, SQLite)</b>
-  - WorkBot
+  - DeadlineBot
 
 <!--<h2> 🤳 Connect with me:</h2>-->
 
@@ -24,4 +24,5 @@
 <h2>😎 About me:</h2>
 
 - <b>🌱 I’m currently learning git and diving into algorithms</b>
+- <b> Flexing on databases and protocols </b>
 - <b>Codeforces - 1213 ([VitCore](https://codeforces.com/profile/VitCore))</b>
