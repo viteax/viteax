@@ -4,8 +4,8 @@
 
 - <b>Mobile application "EduTell" for schools (Dart, Flutter, Firebase)</b>
   - EduTell
-- <b>Telegram Bot with a database for reminding tasks (Python, SQLite)</b>
-  - DeadlineBot
+- <b>Telegram Bot with a database for reminding tasks (Python, PostgreSQL, aiogram)</b>
+  - [DeadlineBot](https://github.com/V1teaks/Deadline-Bot)
 
 <!--<h2> 🤳 Connect with me:</h2>-->
 
