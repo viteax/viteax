@@ -1,4 +1,4 @@
-<h1>Hi, I'm V1teaks! <br/><a href="https://github.com/V1teaks">Python Developer</a></h1>
+<h1>Hi, I'm Viteax! <br/><a href="https://github.com/V1teaks">Python Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
