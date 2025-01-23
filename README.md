@@ -1,4 +1,4 @@
-<h1>Hi, I'm Viteax! <br/><a href="https://github.com/V1teaks">Python Developer</a></h1>
+<h1>Hi, I'm Viteax! <br/><a href="https://github.com/viteax">Backend Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -25,4 +25,4 @@
 
 - <b>🌱 I’m currently learning git and diving into algorithms</b>
 - <b> Flexing on databases and protocols </b>
-- <b>Codeforces - 1213 ([VitCore](https://codeforces.com/profile/VitCore))</b>
+- <b>Codeforces - 1220 ([VitCore](https://codeforces.com/profile/VitCore))</b>
