@@ -1,16 +1,41 @@
-<h1>Hi, I'm Viteax! <br/><a href="https://github.com/viteax">Backend Developer</a></h1>
+<div align="center">
 
-<h2>👨‍💻 Software Development Projects:</h2>
+# Hi, I'm Viteax! 👋
 
-- <b>An automatization for reports (Python, requests, pydocx, pydantic, Pillow, Pytest)</b>
-  - [Report Creator](https://github.com/viteax/very-interesting-task)
-- <b>Telegram Bot for bookworms (Python, aiogram, pydantic)</b>
-  - [Library Bot](https://github.com/viteax/library-bot)
-- <b>Telegram Bot with a database for reminding tasks (Python, PostgreSQL, aiogram)</b>
-  - [DeadlineBot](https://github.com/V1teaks/Deadline-Bot)
+### [Backend Developer](https://github.com/viteax)
 
-<h2>😎 About me:</h2>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 
-- <b>Chill</b>
-- <b>Like to solve [olympics](https://github.com/viteax/olympics)</b>
-- <b>Codeforces - 1271 ([VitCore](https://codeforces.com/profile/VitCore))</b>
+[![Codeforces](https://img.shields.io/badge/Codeforces-1271-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VitCore)
+[![Profile views](https://komarev.com/ghpvc/?username=viteax&style=flat-square&color=blueviolet)](https://github.com/viteax)
+
+</div>
+
+---
+
+## 👨‍💻 Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| 📄 [**Report Creator**](https://github.com/viteax/very-interesting-task) | Automatization for reports | `Python` `requests` `pydocx` `pydantic` `Pillow` `Pytest` |
+| 📚 [**Library Bot**](https://github.com/viteax/library-bot) | Telegram bot for bookworms | `Python` `aiogram` `pydantic` |
+| ⏰ [**DeadlineBot**](https://github.com/V1teaks/Deadline-Bot) | Telegram bot with a database for reminding tasks | `Python` `PostgreSQL` `aiogram` |
+
+## 😎 About me
+
+- 🧊 Chill
+- 🏆 Like to solve [olympics](https://github.com/viteax/olympics)
+- 📈 Codeforces — **1271** ([VitCore](https://codeforces.com/profile/VitCore))
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=viteax&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viteax&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="160"/>
+
+</div>
