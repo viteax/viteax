@@ -21,7 +21,7 @@
 
 | Project | Description | Stack |
 | :-- | :-- | :-- |
-| 📄 [**Report Creator**](https://github.com/viteax/very-interesting-task) | Automatization for reports | `Python` `requests` `pydocx` `pydantic` `Pillow` `Pytest` |
+| 📄 [**Stepik Report Creator**](https://github.com/viteax/stepik-report-creator) | Generates Word reports from Stepik courses: problem statements and solutions with syntax highlighting | `Python` `requests` `python-docx` `pydantic` `Pygments` `Pytest` |
 | 📚 [**Library Bot**](https://github.com/viteax/library-bot) | Telegram bot for bookworms | `Python` `aiogram` `pydantic` |
 | ⏰ [**DeadlineBot**](https://github.com/V1teaks/Deadline-Bot) | Telegram bot with a database for reminding tasks | `Python` `PostgreSQL` `aiogram` |
 
