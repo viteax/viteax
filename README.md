@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 
-<!--CF_BADGE-->[![Codeforces](https://img.shields.io/badge/Codeforces-1271-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VitCore)<!--/CF_BADGE-->
+<!--CF_BADGE-->[![Codeforces](https://img.shields.io/badge/Codeforces-1271-008000?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VitCore)<!--/CF_BADGE-->
 [![Profile views](https://komarev.com/ghpvc/?username=viteax&style=flat-square&color=blueviolet)](https://github.com/viteax)
 
 </div>
@@ -29,7 +29,7 @@
 
 - 🧊 Chill
 - 🏆 Like to solve [olympics](https://github.com/viteax/olympics)
-- 📈 Codeforces — <!--CF_TEXT-->**1271**<!--/CF_TEXT--> ([VitCore](https://codeforces.com/profile/VitCore))
+- 📈 Codeforces — <!--CF_TEXT-->Pupil, **1271** (max 1274)<!--/CF_TEXT--> ([VitCore](https://codeforces.com/profile/VitCore))
 
 ## 📊 GitHub stats
 
