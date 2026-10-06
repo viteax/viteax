@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
 
-<!--CF_BADGE-->[![Codeforces](https://img.shields.io/badge/Codeforces-1271-008000?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VitCore)<!--/CF_BADGE-->
+<!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE-->
 [![Profile views](https://komarev.com/ghpvc/?username=viteax&style=flat-square&color=blueviolet)](https://github.com/viteax)
 
 </div>
