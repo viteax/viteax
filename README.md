@@ -38,6 +38,6 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=viteax&show_icons=true&theme=tokyonight&border_radius=12" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viteax&layout=compact&theme=tokyonight&border_radius=12" alt="Top languages" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viteax&layout=compact&hide=c&theme=tokyonight&border_radius=12" alt="Top languages" height="160"/>
 
 </div>
