@@ -36,7 +36,7 @@ def main() -> None:
     badge = (
         f'<a href="https://codeforces.com/profile/{HANDLE}">'
         f'<img src="https://img.shields.io/badge/Codeforces-{rating}-{color(rating)}'
-        f'?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/></a>'
+        f'?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>'
     )
     line = f"{rank.title()}, **{rating}** (max {maxr})"
     text = README.read_text(encoding="utf-8")
