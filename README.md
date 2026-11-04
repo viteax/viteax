@@ -22,5 +22,8 @@ In my own projects I automate university routine end to end – from competency 
 🔀 [**pr-reviewers-service**](https://github.com/viteax/pr-reviewers-service) – auto-assigns pull request reviewers and manages teams.<br/>
 `FastAPI` `Pydantic` `Pytest` `Docker`
 
+🕹️ [**board_game**](https://github.com/viteax/board_game) – tilt-controlled ball game on an STM32: an MPU6050 reads the board's tilt and the ball rolls across a MAX7219 LED matrix.<br/>
+`C` `STM32 HAL` `I2C` `SPI` `CMake`
+
 🗺️ [**dijkstra-visual**](https://github.com/viteax/dijkstra-visual) – interactive Dijkstra visualization.<br/>
 `C++` `SFML`
