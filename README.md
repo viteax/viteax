@@ -1,43 +1,18 @@
-<div align="center">
+### Hi, I'm Viteax 👋
 
-# Hi, I'm Viteax! 👋
+Python backend developer, 4th-year student at TUSUR. At **Yandex Fintech** I built a testing platform for the company's POS terminals: a Django + HTMX service that drives test runs through async requests to Go microservices.
 
-### [Backend Developer](https://github.com/viteax)
+Outside work I automate university routine end to end – from competency testing mapped to professional standards to a Telegram bot that turns a messy .docx into a standard-compliant paper with a PDF preview. The bot has ~10 daily users before any public launch.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-<img src="https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="aiogram"/>
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/>
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-<br/>
-<!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE-->
+**Projects**
 
-</div>
+- [**competency-assessment**](https://github.com/viteax/competency-assessment) – tests students on FGOS competencies and maps results to professional-standard job functions. FastAPI, SQLAlchemy, PostgreSQL, Docker.
+- [**stepik-report-creator**](https://github.com/viteax/stepik-report-creator) – one command turns a Stepik course into a Word report: problem statements and your accepted solutions with syntax highlighting. Also runs as a library inside my Telegram bot.
+- [**edu-dash**](https://github.com/viteax/edu-dash) – learning cabinet for students, teachers and parents. Django REST, PostgreSQL, Celery, React + TypeScript.
+- [**pr-reviewers-service**](https://github.com/viteax/pr-reviewers-service) – auto-assigns pull request reviewers and manages teams. FastAPI, Pydantic, Pytest.
+- [**dijkstra-visual**](https://github.com/viteax/dijkstra-visual) – interactive Dijkstra visualization. C++, SFML.
 
----
+**Elsewhere**
 
-## 👨‍💻 Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| 📄 [**Stepik Report Creator**](https://github.com/viteax/stepik-report-creator) | Generates Word reports from Stepik courses: problem statements and solutions with syntax highlighting | `Python` `requests` `python-docx` `pydantic` `Pygments` `Pytest` |
-| 🔀 [**PR Reviewers Service**](https://github.com/viteax/pr-reviewers-service) | Service for automatic assignment of Pull Request reviewers | `Python` |
-| 📚 [**Library Bot**](https://github.com/viteax/library-bot) | Telegram bot for bookworms | `Python` `aiogram` `pydantic` |
-| ⏰ [**DeadlineBot**](https://github.com/V1teaks/Deadline-Bot) | Telegram bot with a database for reminding tasks | `Python` `PostgreSQL` `aiogram` |
-| 🗺️ [**Dijkstra Visual**](https://github.com/viteax/dijkstra-visual) | Visualization of Dijkstra's algorithm | `C++` `SFML` |
-| 🎮 [**Doodya Jump**](https://github.com/viteax/doodya-jump) | A Doodle Jump-style game | `GDScript` |
-
-## 😎 About me
-
-- 🧊 Chill
-- 🏆 Like to solve [olympics](https://github.com/viteax/olympics)
-- 📈 Codeforces — <!--CF_TEXT-->Pupil, **1271** (max 1274)<!--/CF_TEXT--> ([VitCore](https://codeforces.com/profile/VitCore))
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=viteax&show_icons=true&theme=tokyonight&border_radius=12" alt="GitHub stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viteax&layout=compact&hide=c&theme=tokyonight&border_radius=12" alt="Top languages" height="160"/>
-
-</div>
+- Codeforces: [VitCore](https://codeforces.com/profile/VitCore) – <!--CF_TEXT-->Pupil, **1271** (max 1274)<!--/CF_TEXT-->
+- [Olympiad solutions](https://github.com/viteax/olympics)
