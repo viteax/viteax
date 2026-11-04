@@ -1,6 +1,6 @@
 ### Hi, I'm Viteax 👋
 
-### Backend developer · ex-intern at <img src="assets/yandex-fintech.png" alt="" height="17"/> Yandex Fintech · 4th-year student at TUSUR
+### Backend developer · ex-intern at <img src="assets/yandex-fintech.png" alt="" height="21" align="absmiddle"/> Yandex Fintech · 4th-year student at TUSUR
 
 <p><!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE--></p>
 
