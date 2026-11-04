@@ -1,6 +1,6 @@
 ### Hi, I'm Viteax 👋
 
-<!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE-->
+<p><!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE--></p>
 
 Python backend developer, 4th-year student at TUSUR. At **Yandex Fintech** I built a testing platform for the company's POS terminals: a Django + HTMX service that drives test runs through async requests to Go microservices.
 
