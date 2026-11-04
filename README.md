@@ -1,8 +1,8 @@
 ### Hi, I'm Viteax 👋
 
-### Backend developer · ex-intern at Yandex Fintech · 4th-year student at TUSUR
-
 <p><!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE--></p>
+
+### Backend developer · ex-intern at <img src="assets/yandex-fintech.png" alt="" height="22" align="center"/> Yandex Fintech · 4th-year student at TUSUR
 
 At Yandex I built a testing platform for the company's POS terminals: a Django + HTMX service that drives test runs through async requests to Go microservices.
 
