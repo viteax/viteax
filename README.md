@@ -6,7 +6,7 @@ Python backend developer, 4th-year student at TUSUR. At **Yandex Fintech** I bui
 
 Outside work I automate university routine end to end – from competency testing mapped to professional standards to a Telegram bot that turns a messy .docx into a standard-compliant paper with a PDF preview. The bot has ~10 daily users before any public launch.
 
-## 🛠️ Projects
+### 🛠️ Projects
 
 🎓 [**competency-assessment**](https://github.com/viteax/competency-assessment) – tests students on FGOS competencies and maps results to professional-standard job functions.<br/>
 `FastAPI` `SQLAlchemy` `PostgreSQL` `Docker`
