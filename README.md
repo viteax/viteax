@@ -3,7 +3,6 @@
 # Hi, I'm Viteax 👋
 
 <!--CF_BADGE--><a href="https://codeforces.com/profile/VitCore"><img src="https://img.shields.io/badge/Codeforces-1271-008000?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a><!--/CF_BADGE-->
-<br/><br/>
 
 </div>
 
